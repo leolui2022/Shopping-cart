@@ -36,7 +36,7 @@ export default function QuantityBtn({productInfo}) {
         }
         else
         {
-            //購物車有該產品，只加個quantity
+            //購物車有該產品，只加個quantity1
             let newCartArray = [...cartItems]
             newCartArray[productIndexInCart].quantity++
             setCartItems(newCartArray)
