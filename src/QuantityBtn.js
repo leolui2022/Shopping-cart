@@ -1,7 +1,7 @@
 import { useContext, useState } from "react"
 import { CartContext } from "./CartContext"
 
-export default function QuantityBtn({productInfo}) {
+function QuantityBtn({productInfo}) {
 
     const {cartItems, setCartItems} = useContext(CartContext)
 
@@ -79,3 +79,5 @@ export default function QuantityBtn({productInfo}) {
         </div>
     )
 }
+
+export default QuantityBtn

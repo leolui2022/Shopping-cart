@@ -24,8 +24,7 @@ export default function ProductList() {
  */
     return (
         //React Fragment簡寫
-        <>
-            <Title mainTitle="React入門水果店" />
+        <>尚花店"由react寫 /
             
             <div className="container">
                 {
@@ -51,3 +50,4 @@ export default function ProductList() {
         </>
     )
 }
+
