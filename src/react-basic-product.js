@@ -6,7 +6,7 @@ const item = [
     {"id" : 5,"name" : "少女花5", "price" : 10,"image" : "littegirl5.jpg","description":"少女青春可人，人見人愛5"},
     {"id" : 6,"name" : "少女花6", "price" : 5,"image" : "littegirl6.jpg","description":"少女青春可人，人見人愛6"},
     {"id" : 7,"name" : "少女花7", "price" : 15,"image" : "TBF00050.jpg","description":"少女青春可人，人見人愛7"},
-    {"id" : 8,"name" : "少女花8", "price" : 25,"image" : "TBF00095_thumb.jpg","description":"少女青春可人，人見人愛8"},
+    {"id" : 8,"name" : "少女花8", "price" : 45,"image" : "TBF00095_thumb.jpg","description":"少女青春可人，人見人愛8"},
     {"id" : 9,"name" : "少女花9", "price" : 25,"image" : "TBF00124_thumb.jpg","description":"少女青春可人，人見人愛9"},
 ]8
 
