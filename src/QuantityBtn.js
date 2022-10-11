@@ -69,7 +69,7 @@ function QuantityBtn({productInfo}) {
         <div className="addToCart">
             {
                 (numInCart === 0) ?
-                <span className="addToCartBtn" onClick={handleAdd}>加入購物車</span> :
+                <span className="addToCartBtn" onClick={handleAdd}>請加入購物車</span> :
                 <div>
                     <span className="subtractBtn" onClick={handleSubtract}>-</span>
                     {numInCart}件

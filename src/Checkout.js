@@ -21,7 +21,7 @@ export default function Checkout() {
             {
                 cartEmpty && 
                 <div>
-                    <div className="nothingInCart">購物車現在沒有商品<br/><br/>
+                    <div className="nothingInCart">購物車上現在沒有商品<br/><br/>
                     <Link to="/">去產品頁看看吧</Link></div> :
                 </div>
             }
