@@ -25,7 +25,7 @@ export default function ProductList() {
     return (
         //React Fragment簡寫
         <>
-            <Title mainTitle="由React寫的尚花店2" />
+            <Title mainTitle="由React寫的尚花店3" />
             
             <div className="container">
                 {
