@@ -1,5 +1,4 @@
 const item = [
-
     {"id" : 1,"name" : "少女之花1", "price" : 5, "image" : "littlegirl.jpg","description":"美少女之花1，青春可人，人見人愛1"},
     {"id" : 2,"name" : "少女的花2", "price" : 3, "image" : "littlegirl2.jpg","description":"美少女的花2，青春可人，人見人愛2"},
     {"id" : 3,"name" : "少女探花3", "price" : 4, "image" : "littlegirl3.jpg","description":"美少女探花3，青春可人，人見人愛3"},
@@ -10,5 +9,6 @@ const item = [
     {"id" : 8,"name" : "少女滅花8", "price" : 5,"image" : "TBF00095_thumb.jpg","description":"美少女滅花8，青春可人，人見人愛8"},
     {"id" : 9,"name" : "少女亡花9", "price" : 5,"image" : "TBF00124_thumb.jpg","description":"美少女亡花9，青春可人，人見人愛9"},
 ]
+
 
 export default item

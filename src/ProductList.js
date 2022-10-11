@@ -23,8 +23,9 @@ export default function ProductList() {
     },[]) <==  Dependency Array
  */
     return (
-        //React Fragment簡寫  _rfc
-        <>尚花店由 leo 用react寫 /
+     //React Fragment簡寫
+     <>
+     <Title mainTitle="由React寫的尚花店2" />
             
             <div className="container">
                 {
